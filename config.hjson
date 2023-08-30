@@ -1,0 +1,13 @@
+{
+    server: {
+        id: GamesJs
+        port: 3500
+        appName: games-js
+        debugMode: false
+    }
+
+    parameter: {
+        pathView : /Users/fahrizalkhoirianto/Documents/golang/games-js/
+    }
+
+}
