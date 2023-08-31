@@ -2,4 +2,4 @@
 
 	config.hjson
 	*.linux
-  downloads/
+  downloads/*
