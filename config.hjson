@@ -8,6 +8,7 @@
 
     parameter: {
         pathView : /Users/fahrizalkhoirianto/Documents/golang/games-js/
+        test: 2
     }
 
 }

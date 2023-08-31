@@ -1,5 +1,4 @@
 # ignore ALL .log files
-
-	config.hjson
-	*.linux
-  downloads/*
+config.hjson
+*.linux
+downloads/*
