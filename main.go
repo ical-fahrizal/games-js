@@ -31,5 +31,17 @@ func main() {
 	//game-1
 	app.Get("/game-js-1", ctlr.Game1)
 
+	//game-2
+	app.Get("/game-js-2", ctlr.Game2)
+
+	//game-3
+	app.Get("/game-js-3", ctlr.Game3)
+
+	//game-4
+	app.Get("/game-js-4", ctlr.Game4)
+
+	//game-5
+	app.Get("/game-js-5", ctlr.Game5)
+
 	log.Fatal(app.Listen(":3500"))
 }
